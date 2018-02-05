@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">patenio-SubBook</string>
+    <string name="show_button">SHOW</string>
+    <string name="show_message">Select to view current subscriptions.</string>
+    <string name="add_button">ADD</string>
+    <string name="add_message">Select to add a new subscription.</string>
+    <string name="title_activity_sub_edit_menu">Add/Edit Subscription</string>
+    <string name="title_activity_subs_display">Current Subscriptions</string>
+    <string name="save_button">SAVE</string>
+    <string name="cancel_button">CANCEL</string>
+    <string name="label_name">Name</string>
+    <string name="label_date">Date</string>
+    <string name="label_monthly_charge">Monthly Charge</string>
+    <string name="label_comment">Comment</string>
+    <string name="save_message">Select to save subscription changes.</string>
+    <string name="cancel_message">Select to cancel subscription changes.</string>
+    <string name="delete_button">DELETE</string>
+    <string name="delete_message">Select to delete current subscription.</string>
+    <string name="error_add_message">ERROR: Unable to to add a new subscription! Please enter a valid name, date (yyyy-mm-dd), and monthly charge (greater than 0).</string>
+    <string name="continue_button">CONTINUE</string>
+</resources>
